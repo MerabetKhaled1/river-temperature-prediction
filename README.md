@@ -85,8 +85,9 @@ river-temperature-prediction/
 │   └── xgboost_model.py
 │
 ├── matlab_code/
-│   ├── eemd_decomposition.m
-│   ├── vmd_decomposition.m
+│   ├── EMD_decomposition.m
+│   ├── EEMD_decomposition.m
+│   ├── CEEMDAN_decomposition.m
 │   └── signal_plot.m
 │
 ├── data/
