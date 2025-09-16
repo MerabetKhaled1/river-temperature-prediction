@@ -18,13 +18,9 @@ pip install pandas numpy scikit-learn xgboost catboost lightgbm
 
 ## Data
 
-The dataset `STATION-S04-DUNAJEC.xlsx` must be placed in the project root. It includes two sheets:
+The dataset `STATION01.xlsx` must be placed in the project root. It includes two sheets:
 - `TRAINING`: Training data
 - `VALIDATION`: Testing data
-
-Columns used:
-- `AL`: Feature input
-- `AM`: Target temperature
 
 ## Usage
 
