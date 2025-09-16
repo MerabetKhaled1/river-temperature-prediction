@@ -18,7 +18,7 @@ pip install pandas numpy scikit-learn xgboost catboost lightgbm
 
 ## Data
 
-The dataset `STATION01.xlsx` must be placed in the project root. It includes two sheets:
+The dataset `STATION1.xlsx` must be placed in the project root. It includes two sheets:
 - `TRAINING`: Training data
 - `VALIDATION`: Testing data
 
