@@ -1,4 +1,3 @@
-
 mp=09;
 [Tw,TEXT]=xlsread('STATION1.xlsx','DATA',  'D2:D10221');   
 X1= Tw;
